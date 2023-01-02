@@ -1,3 +1,5 @@
 # GoodSnoozeTools
 
-A description of this package.
+Helpful things!
+
+Add 'git@github.com:jordibruin/GoodSnoozeTools' as a Package
