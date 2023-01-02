@@ -17,7 +17,7 @@ let package = Package(
             targets: ["GoodSnoozeTools"]),
     ],
     dependencies: [
-         .package(url: "https://github.com/sindresorhus/Defaults", from: "1.0.0"),
+         .package(url: "https://github.com/sindresorhus/Defaults", from: "7.0.0"),
     ],
     targets: [
         .target(
