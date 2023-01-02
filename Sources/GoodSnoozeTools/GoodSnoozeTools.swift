@@ -86,7 +86,8 @@ fileprivate extension Color {
     }
 }
 
-// Use Hex as colors , tag 3
+// Use Hex as colors , tag 4
+
 extension Color {
     public init(hex: String) {
         let hex = hex.trimmingCharacters(in: CharacterSet.alphanumerics.inverted)
